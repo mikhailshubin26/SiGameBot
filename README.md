@@ -1,4 +1,4 @@
-# Telegram Bot in aiogram
+# Telegram Bot in aiogram (In Development)
 
 A simple Telegram bot written in Python using the [aiogram](https://docs.aiogram.dev/en/latest/) library. The bot greets the user by sending a message with the user's name.
 
