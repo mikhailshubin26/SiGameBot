@@ -3,4 +3,4 @@ import os
 
 load_dotenv()
 
-BOT_TOKEN=os.getenv("BOT_TOKEN") # Ваш токен должен быть в файле .env
+BOT_TOKEN=os.getenv("BOT_TOKEN") # Your token should be in .env
