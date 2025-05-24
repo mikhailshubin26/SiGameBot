@@ -1,6 +1,6 @@
-# Telegram Bot in aiogram (In Development)
+# Aiogram-based Telegram Bot for Playing Jeopardy (In Development)
 
-A simple Telegram bot written in Python using the [aiogram](https://docs.aiogram.dev/en/latest/) library. The bot greets the user by sending a message with the user's name.
+A Telegram bot built with Aiogram for playing the Jeopardy quiz game using [aiogram](https://docs.aiogram.dev/en/latest/). This project is currently under active development.
 
 ---
 
@@ -41,7 +41,7 @@ BOT_TOKEN=place_your_token_here
 
 ```
 
-You can get token here - https://t.me/BotFather
+You can get token here - [BotFather](https://t.me/BotFather)
 
 ## Launch
 
