@@ -56,6 +56,7 @@ py main.py       # Windows
 + get_username.py - function to get username.
 + app – directory with handlers
 	+ handlers.py – bot's commands
+	+ keyboards.py – Inline/Reply Keyboards
 + .env - file with environment variables (should not be included in the repository).
 
 ## Example Usage
