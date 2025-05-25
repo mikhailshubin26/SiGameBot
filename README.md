@@ -55,7 +55,7 @@ py main.py       # Windows
 + config.py - loading configuration from .env.
 + get_username.py - function to get username.
 + app – directory with handlers
-+ + handlers.py – bot's commands
+	+ handlers.py – bot's commands
 + .env - file with environment variables (should not be included in the repository).
 
 ## Example Usage
