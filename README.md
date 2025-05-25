@@ -2,6 +2,8 @@
 
 A Telegram bot built with Aiogram for playing the Jeopardy quiz game using [aiogram](https://docs.aiogram.dev/en/latest/). This project is currently under active development.
 
+Here you can test [Original Bot](https://t.me/svoyaks_bot)
+
 ---
 
 ## Features
