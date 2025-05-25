@@ -77,10 +77,10 @@ If you have any questions or suggestions, feel free to contact me via email: mis
 
 If you'd like to support this project, you can donate cryptocurrency:
 
-Bitcoin (BTC): bc1qllfd0zxmk45j3x53d5dnu9y0ls7vdx60yyk3u4
++ Bitcoin (BTC): bc1qllfd0zxmk45j3x53d5dnu9y0ls7vdx60yyk3u4
 
-Ethereum (ETH): 0x480468BbB77ef4a4abed20e81656e4CFBcc1C055
++ Ethereum (ETH): 0x480468BbB77ef4a4abed20e81656e4CFBcc1C055
 
-Tether (USDT TRC-20): TVrv9eQp4cvQ71NhE2uypCksjR9qQZBHcZ
++ Tether (USDT TRC-20): TVrv9eQp4cvQ71NhE2uypCksjR9qQZBHcZ
 
 *Your support is appreciated ❤️*
